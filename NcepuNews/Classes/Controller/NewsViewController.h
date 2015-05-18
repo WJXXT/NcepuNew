@@ -13,7 +13,6 @@
 @interface NewsViewController : UITableViewController <MBProgressHUDDelegate>
 //@property(strong,atomic)allmodel *arrayq;
 @property (strong, nonatomic) DataModel *arrays;
-//@property (nonatomic, strong) IBOutlet UITableViewCell *NewsCell;
 @property (strong,nonatomic) UILabel *titile;
 @property (strong,nonatomic) UIImageView *imageView;
 @property (strong,nonatomic) UILabel *time;
