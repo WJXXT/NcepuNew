@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  NavigationBar.h
 //  NcepuNews
 //
 //  Created by 王新国 on 15/5/5.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface NavigationBar : UINavigationBar
 
 @end
-
